@@ -23,5 +23,5 @@
 >>>>>>> 9097b9ddc9e5155d9d908c50183473f0832ca1fc
 | JOIN (5/10)          |      |      |
 | JOIN (10/10)         |      |      |
-| String, Date (5/10)  |      |      |
+| String, Date (5/10)  |      |  ✅  |
 | String, Date (10/10) |      |      |

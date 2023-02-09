@@ -12,12 +12,12 @@
 | SELECT (19/19)       |      |      |
 | SUM, MAX, MIN (3/6)  | ✅    | ✅    |
 | SUM, MAX, MIN (6/6)  | ✅    | ✅    |
-| GROUP BY (7/14)      | ✅    |      |
-| GROUP BY (14/14)     |      |      |
+| GROUP BY (7/15)      | ✅    |      |
+| GROUP BY (14/15)     |      |      |
 | IS NULL (3/5)        | ✅    | ✅    |
 | IS NULL (5/5)        | ✅    | ✅    |
-| JOIN (5/10)          |      |      |
-| JOIN (10/10)         |      |      |
-| String, Date (5/10)  | ✅    | ✅    |
-| String, Date (10/10) |      |      |
+| JOIN (5/13)          |      |      |
+| JOIN (10/11)         |      |      |
+| String, Date (7/13)  |      | ✅    |
+| String, Date (10/13) |      |      |
 

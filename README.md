@@ -16,7 +16,7 @@
 | GROUP BY (14/15)     |      |      |
 | IS NULL (3/5)        | ✅    | ✅    |
 | IS NULL (5/5)        | ✅    | ✅    |
-| JOIN (5/13)          |      |      |
+| JOIN (5/11)          |      |      |
 | JOIN (10/11)         |      |      |
 | String, Date (7/13)  |      | ✅    |
 | String, Date (10/13) |      |      |

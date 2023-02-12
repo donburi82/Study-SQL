@@ -8,16 +8,15 @@
 
 | 풀이문제 수               | DY   | H    |
 | -------------------- | ---- | ---- |
-| SELECT (10/19)       | ✅    | ✅    |
+| SELECT (9/19)       | ✅    | ✅    |
 | SELECT (19/19)       |      |      |
 | SUM, MAX, MIN (3/6)  | ✅    | ✅    |
 | SUM, MAX, MIN (6/6)  | ✅    | ✅    |
 | GROUP BY (7/15)      | ✅    | ✅   |
-| GROUP BY (14/15)     |      |      |
-| IS NULL (3/5)        | ✅    | ✅    |
+| GROUP BY (15/15)     |      |      |
+| IS NULL (2/5)        | ✅    | ✅    |
 | IS NULL (5/5)        | ✅    | ✅    |
 | JOIN (5/11)          | ✅    |      |
-| JOIN (10/11)         |      |      |
-| String, Date (7/13)  | ✅    | ✅    |
-| String, Date (10/13) |      |      |
-
+| JOIN (11/11)         |      |      |
+| String, Date (6/13)  | ✅    | ✅    |
+| String, Date (13/13) |      |      |

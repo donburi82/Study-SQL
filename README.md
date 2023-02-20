@@ -17,6 +17,6 @@
 | IS NULL (2/5)        | ✅    | ✅    |
 | IS NULL (5/5)        | ✅    | ✅    |
 | JOIN (5/11)          | ✅    | ✅    |
-| JOIN (11/11)         |      |      |
+| JOIN (11/11)         |       | ✅    |
 | String, Date (6/13)  | ✅    | ✅    |
 | String, Date (13/13) | ✅    | ✅    |
